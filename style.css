@@ -1,0 +1,18 @@
+body{
+  background-color:#95E1D3;
+}
+hr{
+
+  border-style: dotted none none;
+  border-color: grey;
+  border-width:5px;
+
+  width:8%;
+}
+h1{
+  color: peachpuff;
+  font-style: oblique;
+}
+h3{
+  color: grey;
+}
