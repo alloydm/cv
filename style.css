@@ -1,0 +1,50 @@
+.top
+{
+  background-color: #E4F9F5;
+  position: relative;
+  padding: 100px;
+}
+.middle-container
+{
+  background-color: #E4F9F5;
+}
+.bottum-container
+{
+   background-color: #E4F9F5;
+}
+body
+{
+  margin:0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+h1
+{
+  margin: 0;
+ font-family: 'Sacramento', cursive;
+}
+h2
+{
+  font-family: 'Roboto', sans-serif;
+}
+h3
+{
+  font-family: 'Playball', cursive;
+}
+.bot-img
+{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+.top-img
+{
+  position:absolute;
+  right:300px;
+  top: 50px;
+}
+hr{
+  border-color: gold;
+  border-width: 5px;
+}
